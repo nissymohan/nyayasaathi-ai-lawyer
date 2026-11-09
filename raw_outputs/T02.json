@@ -1,0 +1,52 @@
+{
+  "case": {
+    "merchant": "SoundExample",
+    "product": "wireless headset",
+    "amount": "1899",
+    "date": "02-11-2026",
+    "issue": "Defective product",
+    "contact": "Seller replied asking for a video",
+    "evidence": "invoice, unpacking video, chat screenshots",
+    "remedy": "Refund or appropriate replacement",
+    "narrative": "The headset is defective and the seller refuses to help.",
+    "language": "en"
+  },
+  "missing": [],
+  "triage": {
+    "status": "consumer",
+    "message": "Within this prototype’s consumer-purchase scope; no legal result is guaranteed."
+  },
+  "guidance": {
+    "status": "consumer",
+    "message": "Within this prototype’s consumer-purchase scope; no legal result is guaranteed.",
+    "steps": [
+      "Send a factual written grievance to the seller and preserve a copy.",
+      "If unresolved, contact the National Consumer Helpline at 1915 or its official portal.",
+      "For formal consumer commission filing, consult the current e-Jagriti guidance and assess deadlines/jurisdiction with a qualified professional."
+    ],
+    "sources": {
+      "consumer_act": {
+        "title": "Consumer Protection Act, 2019 (India Code)",
+        "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/15256?sam_handle=123456789%2F1362&view_type=browse"
+      },
+      "nch": {
+        "title": "National Consumer Helpline (Government of India)",
+        "url": "https://consumeraffairs.gov.in/pages/nch"
+      },
+      "nch_portal": {
+        "title": "National Consumer Helpline grievance portal",
+        "url": "https://consumerhelpline.gov.in/"
+      },
+      "ejagriti": {
+        "title": "e-Jagriti consumer commission filing portal",
+        "url": "https://e-jagriti.gov.in/"
+      },
+      "legal_aid": {
+        "title": "National Legal Services Authority",
+        "url": "https://nalsa.gov.in/"
+      }
+    }
+  },
+  "draft": "Subject: Consumer grievance – request for resolution (SoundExample)\n\nDear Customer Support,\n\nI paid INR 1899 on 02-11-2026 for wireless headset. The issue is: Defective product.\n\nEarlier contact with the seller: Seller replied asking for a video.\nEvidence I currently have: invoice, unpacking video, chat screenshots.\nResolution I request: Refund or appropriate replacement.\n\nPlease review this grievance, confirm receipt, and respond in writing with an appropriate resolution.\n\nSincerely,\n[Your name]\n[Contact details]\n[Date]\n\nNote: User-review draft of a seller grievance, not a lawyer-vetted legal notice.",
+  "test_id": "T02"
+}

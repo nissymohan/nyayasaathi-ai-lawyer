@@ -1,0 +1,57 @@
+{
+  "case": {
+    "merchant": "",
+    "product": "",
+    "amount": "",
+    "date": "",
+    "issue": "",
+    "contact": "",
+    "evidence": "",
+    "remedy": "",
+    "narrative": "I received court summons after a dispute with the merchant.",
+    "language": "en"
+  },
+  "missing": [
+    "merchant",
+    "product",
+    "amount",
+    "date",
+    "issue",
+    "contact",
+    "evidence",
+    "remedy"
+  ],
+  "triage": {
+    "status": "urgent_review",
+    "message": "Potentially urgent or high-stakes legal matter. Seek a qualified lawyer promptly; do not rely on this assistant for court deadlines or criminal/safety issues."
+  },
+  "guidance": {
+    "status": "urgent_review",
+    "message": "Potentially urgent or high-stakes legal matter. Seek a qualified lawyer promptly; do not rely on this assistant for court deadlines or criminal/safety issues.",
+    "steps": [],
+    "sources": {
+      "consumer_act": {
+        "title": "Consumer Protection Act, 2019 (India Code)",
+        "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/15256?sam_handle=123456789%2F1362&view_type=browse"
+      },
+      "nch": {
+        "title": "National Consumer Helpline (Government of India)",
+        "url": "https://consumeraffairs.gov.in/pages/nch"
+      },
+      "nch_portal": {
+        "title": "National Consumer Helpline grievance portal",
+        "url": "https://consumerhelpline.gov.in/"
+      },
+      "ejagriti": {
+        "title": "e-Jagriti consumer commission filing portal",
+        "url": "https://e-jagriti.gov.in/"
+      },
+      "legal_aid": {
+        "title": "National Legal Services Authority",
+        "url": "https://nalsa.gov.in/"
+      }
+    }
+  },
+  "draft": null,
+  "test_id": "T06"
+}

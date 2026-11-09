@@ -1,0 +1,52 @@
+{
+  "case": {
+    "merchant": "उदाहरण स्टोर",
+    "product": "बैग",
+    "amount": "1200",
+    "date": "01-11-2026",
+    "issue": "रिफंड नहीं मिला",
+    "contact": "मैंने दो बार शिकायत की",
+    "evidence": "रसीद और चैट स्क्रीनशॉट",
+    "remedy": "पूर्ण रिफंड",
+    "narrative": "मेरी ₹1200 की खरीद का रिफंड नहीं मिला।",
+    "language": "hi"
+  },
+  "missing": [],
+  "triage": {
+    "status": "consumer",
+    "message": "यह मामला इस प्रोटोटाइप के उपभोक्ता-खरीद दायरे में है; कानूनी परिणाम निश्चित नहीं है।"
+  },
+  "guidance": {
+    "status": "consumer",
+    "message": "यह मामला इस प्रोटोटाइप के उपभोक्ता-खरीद दायरे में है; कानूनी परिणाम निश्चित नहीं है।",
+    "steps": [
+      "विक्रेता को तथ्यात्मक लिखित शिकायत भेजें और उसकी कॉपी रखें।",
+      "समाधान न मिले तो राष्ट्रीय उपभोक्ता हेल्पलाइन 1915 या आधिकारिक पोर्टल पर जाएं।",
+      "उपभोक्ता आयोग में औपचारिक शिकायत के लिए e-Jagriti के मौजूदा निर्देश देखें और समयसीमा/क्षेत्राधिकार वकील से जाँचें।"
+    ],
+    "sources": {
+      "consumer_act": {
+        "title": "Consumer Protection Act, 2019 (India Code)",
+        "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/15256?sam_handle=123456789%2F1362&view_type=browse"
+      },
+      "nch": {
+        "title": "National Consumer Helpline (Government of India)",
+        "url": "https://consumeraffairs.gov.in/pages/nch"
+      },
+      "nch_portal": {
+        "title": "National Consumer Helpline grievance portal",
+        "url": "https://consumerhelpline.gov.in/"
+      },
+      "ejagriti": {
+        "title": "e-Jagriti consumer commission filing portal",
+        "url": "https://e-jagriti.gov.in/"
+      },
+      "legal_aid": {
+        "title": "National Legal Services Authority",
+        "url": "https://nalsa.gov.in/"
+      }
+    }
+  },
+  "draft": "विषय: उदाहरण स्टोर को उपभोक्ता शिकायत – समाधान का अनुरोध\n\nमहोदय/महोदया,\n\nमैंने 01-11-2026 को बैग के लिए ₹1200 का भुगतान किया था। मुझे निम्न समस्या हुई: रिफंड नहीं मिला।\n\nपहले किया गया संपर्क: मैंने दो बार शिकायत की।\nमेरे पास उपलब्ध साक्ष्य: रसीद और चैट स्क्रीनशॉट।\nमेरा अनुरोधित समाधान: पूर्ण रिफंड।\n\nकृपया मेरी शिकायत की जांच कर लिखित रूप से उत्तर दें और उपयुक्त समाधान बताएं। कृपया शिकायत प्राप्त होने की पुष्टि भी करें।\n\nसादर,\n[आपका नाम]\n[संपर्क विवरण]\n[तारीख]\n\nनोट: यह उपयोगकर्ता-समीक्षा के लिए शिकायत का मसौदा है; किसी वकील द्वारा सत्यापित कानूनी नोटिस नहीं।",
+  "test_id": "T03"
+}
